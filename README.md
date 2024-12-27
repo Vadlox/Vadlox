@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vadlox
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Nothing work on ur own stuff xd
-- 📫 How to reach me Dm Me On Discord @Vadloxx
+- 🌱 I’m currently learning: React
+- 💞️ I’m looking to collaborate on: Nothing work on ur own stuff xd
+- 📫 How to reach me: Dm Me On Discord @Vadloxx
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im a pro
