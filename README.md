@@ -19,22 +19,11 @@ Welcome to my GitHub! I’m a passionate developer, lifelong learner, and open-s
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-## 🛠️ Projects
-
-- [Project Name](https://github.com/Vadlox/project-name): Brief description of your coolest project
-- [Another Project](https://github.com/Vadlox/another-project): What makes this project awesome
-
 ## 📈 GitHub Stats
 
 ![Vadlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadlox&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadlox&layout=compact&theme=radical)
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vadlox)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/vadlox)
-[![Personal Website](https://img.shields.io/badge/-Website-darkgreen?style=flat-square&logo=google-chrome)](https://vadlox.com)
 
 ---
 
