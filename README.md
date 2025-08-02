@@ -4,11 +4,10 @@ Welcome to my GitHub! I’m a passionate developer, lifelong learner, and open-s
 
 ## 🚀 About Me
 
-- 💻 Developer specializing in [your favorite stack or languages, e.g., JavaScript, Python, Rust]
+- 💻 Developer specializing in Java
 - 🌱 Always learning new technologies and best practices
-- 🔭 Currently working on [your main project or focus]
-- ⚡ Fun fact: [something unique about you]
-
+- 🔭 Currently working on something!
+- ⚡ Fun fact: im straight
 ## 🧩 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
