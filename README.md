@@ -19,6 +19,4 @@ Welcome to my GitHub! I’m a passionate developer, lifelong learner, and open-s
 
 ## 📈 GitHub Stats
 
-![Vadlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadlox&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadlox&layout=compact&theme=radical)
+![Vadlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadlox&show_icons=true&hide_title=true&count_private=true&theme=gotham)
