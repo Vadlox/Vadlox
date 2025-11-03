@@ -1,6 +1,6 @@
 # 👋 Hi
 
-Welcome to my github profile! My name is Vadlox with my real name being Ramses Rodriguez; Btw if you're a C dev you can fuck off respectfully <3.
+Welcome to my github profile! My name is Vadlox with my real name being Ramses Rodriguez; Btw if you're a C dev you can fuck off respectfully <3. One last thing I absolutly LOVEEE psychology I just find the subject itself interesting so take that how you will~
 
 ## 🚀 About Me
 
