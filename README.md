@@ -7,7 +7,7 @@ Welcome to my github profile! My name is Vadlox with my real name being Ramses R
 - I'm Straight
 - My fav language is Java
 - I am indeed a male
-- Single in coding and relationship...
+- Single as a dev and as an irl relationship...
 - I hate doing frontend for websites
   
 ## 📈 GitHub Stats
