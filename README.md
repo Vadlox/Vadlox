@@ -9,6 +9,7 @@ Welcome to my github profile! My name is Vadlox with my real name being Ramses R
 - I am indeed a male
 - Single as a dev and as an irl relationship...
 - I hate doing frontend for websites
+- I am 17yrs old and was born in Texas
   
 ## 📈 GitHub Stats
 
