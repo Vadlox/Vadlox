@@ -1,22 +1,15 @@
-# 👋 Hi, I'm Vadlox!
+# 👋 Hi
 
-Welcome to my GitHub! I’m a passionate developer, lifelong learner, and open-source enthusiast.
+Welcome to my github profile! My name is Vadlox with my real name being Ramses Rodriguez; Btw if you're a C dev you can fuck off respectfully <3.
 
 ## 🚀 About Me
 
-- 💻 Developer specializing in Java
-- 🌱 Always learning new technologies and best practices
-- 🔭 Currently working on something!
-- ⚡ Fun fact: im straight
-## Knowledge
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
+- I'm Straight
+- My fav language is Java
+- I am indeed a male
+- Single in coding and relationship...
+- I hate doing frontend for websites
+  
 ## 📈 GitHub Stats
 
 ![Vadlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadlox&show_icons=true&hide_title=true&count_private=true&theme=gotham)
